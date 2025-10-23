@@ -1,16 +1,51 @@
-# to_do
+# 📝 **To-Do App (Flutter)**
 
-A new Flutter project.
+A clean and minimal To-Do List application built with Flutter (Dart) — featuring local data storage, task categories, due dates, and light/dark mode.
 
-## Getting Started
+## 🚀 **Features**
 
-This project is a starting point for a Flutter application.
+✅ Add, view, mark, and delete tasks  
+🗂️ Categorize tasks (Work, Study, Personal)  
+📅 Set due dates and view remaining days  
+💾 Local storage using SharedPreferences  
+🌙 Light / Dark mode toggle (saved preference)  
+📊 Task counter (Completed vs Pending)  
+🎨 Clean modern UI with rounded cards and Material icons
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 📸 Screenshots  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<p align="center">
+  <img src="screenshots/11.png" height="380" />
+  <img src="screenshots/22.png" height="380" />
+  <img src="screenshots/33.png" height="380" />
+  <img src="screenshots/44.png" height="380" />
+  <img src="screenshots/55.png" height="380" />
+  <img src="screenshots/66.png" height="380" />
+  <img src="screenshots/77.png" height="380" />
+  <img src="screenshots/88.png" height="380" />
+  <img src="screenshots/99.png" height="380" />
+  <img src="screenshots/10.png" height="380" />
+  <img src="screenshots/100.png" height="380" />
+</p>
+</p>
+
+---
+
+
+## 🧰 **Tech Stack**
+
+**Framework:** Flutter (Dart)  
+**Storage:** SharedPreferences  
+**Design:** Material Design
+
+## 📸 **UI Highlights**
+
+Minimal blue, white, and gray color scheme  
+Rounded cards and buttons  
+Simple, user-friendly interface
+
+---
+
+**👨‍💻** Zubair Ahmed  
